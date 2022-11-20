@@ -7,3 +7,13 @@ The module consists of 3 main ICs:
 * **LR1110IMLTRT:** Long Range Low power Transceiver (150MHz-960MHz) supporting LoRa + (G)FSK modulation. It includes extra receiver for WIFI and GNSS geolocation capability - 5x5 MLQP 32p package - Operating voltage 1.8V to 3.7V - Operating Temp : -40 to 85degC
 
 The module also includes, LNA, RF switch, an optional secure element,  passive components , Xtal, TCXO, tuning circuit to get 50 ohm output impedance for the 3 RF ports. The application circuit will only need a 3V.0-3.3V supply and decoupling cap. 
+
+## Documents
+Login to see all documents available
+* **Brief datasheet** describes functionality, performance and pin out. 
+* **PCB design data** of the LBEU5ZZ1WL module including:
+  1. **Symbol** 
+  2. **Footprint**
+  3. **Mechanical datasheet**
+  4. **3D STEP**
+  5. **PCB Footprint and Symbol** - Kicad
