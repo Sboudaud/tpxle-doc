@@ -112,10 +112,10 @@ lora send aabbcc
 :::
 
 ## Documentation
-
-* [EVK First Flash instructions](https://actilitysa.sharepoint.com/:f:/t/aby/Evu48ACuFjhMmrAus6F6Kr8Bdn5Roz5ug5M67MHuVqpFqg?e=CYoNzT)
-* [EVK User Guide](https://actilitysa.sharepoint.com/:f:/t/aby/EiX2Y8y8xhFCnn4DE78bWtkBpk2KVE9mOXlT7qOH0DFyyA?e=YS9t6h)
 * [EVK Datasheet](https://actilitysa.sharepoint.com/:b:/t/aby/Eat2H1zqEbtEl8VBFMaOicIBk0q_FNdnkcAgFkY_unyISA?e=wda8xv)
+* [EVK User Guide](https://actilitysa.sharepoint.com/:f:/t/aby/EiX2Y8y8xhFCnn4DE78bWtkBpk2KVE9mOXlT7qOH0DFyyA?e=YS9t6h)
+* [EVK Schematic]()
+* [EVK First Flash instructions](https://actilitysa.sharepoint.com/:f:/t/aby/Evu48ACuFjhMmrAus6F6Kr8Bdn5Roz5ug5M67MHuVqpFqg?e=CYoNzT)
 * [Flashing the firmware](https://actilitysa.sharepoint.com/:b:/t/aby/ET5cthwckEFBtsDKI7FViYYBvYnug1R_VcTYmS9Hnbn2-A?e=GBDMXU)
 
 ## EVK Board Accessories datasheet
